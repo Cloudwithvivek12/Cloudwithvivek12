@@ -31,5 +31,8 @@
 
   <!-- AWS -->
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="100"/>
+   <!-- Openshift -->
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" alt="OpenShift" width="60" height="60"/>
+
 
 </p>
